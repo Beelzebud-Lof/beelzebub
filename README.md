@@ -1,4 +1,4 @@
-# 💥 Welcome to My World! 💥
+                                                  # 💥 Welcome to My World! 💥
 
 👾 Ethical Hacker | Bug Bounty Hunter | Cybersecurity Enthusiast
 
@@ -7,7 +7,7 @@
 🔹 Always learning. Always evolving.
 🔹 Currently working on multiple security research projects—stay tuned for some epic releases!
 
-💻 Skills & Tools
+                                                    💻 Skills & Tools
 
 Languages:
 🔹 Python - My go-to weapon for automation and exploiting vulnerabilities.
@@ -27,15 +27,15 @@ Platforms:
 🔹 TryHackMe - Hands-on labs for learning and mastering cybersecurity skills.
 🔹 Bugcrowd & HackerOne - Hunting for vulnerabilities and earning rewards.
 
-🚀 Projects & Contributions
+                                                 🚀 Projects & Contributions
 
 🔹 Currently working on some exciting security projects! 
 
-📬 Let's Connect
+                                                 📬 Let's Connect
 
 Email: axguards@proton.me
 
-🎯 Quote of the Day
+                                                🎯 Quote of the Day
 
 "If you wanna know how not secure you are, just take a look around. Nothing's secure. Nothing's safe. I don't hate technology, I don't hate hackers, because that's just what comes with it, without those hackers we wouldn't solve the problems we need to solve, especially security."
 Fred Durst
